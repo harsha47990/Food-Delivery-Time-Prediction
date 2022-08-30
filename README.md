@@ -18,4 +18,4 @@ Size of test set: 11,399 csv files
 - 
 ### Feature Engineering
 - We added new feature called "distance" which is the calculated result of the distance between restaurent and delivery location and we dropped latitute and longitude columns ('Restaurant_latitude','Restaurant_longitude','Delivery_location_latitude','Delivery_location_longitude')
-- we added new feature called "Preparation Time" which is the amount of time (in Min) it took from the order received to order picked by delivery guy and we dropped 'Time_Order_picked','Order_Date' columns.
+- we added new feature called "Preparation Time" which is the amount of time (in Min) it took from the order received to order picked by delivery guy and we dropped 'Time_Order_picked','Time_Order' columns.
