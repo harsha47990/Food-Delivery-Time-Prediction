@@ -24,6 +24,6 @@ Size of test set: 11,399 csv files
 
 ### Training 
 - We trained the data with multiple Machine Learning models such as linear regression, SVR, Decision tree regression and Deep learning ANN model.
-- We got the best r2 score of 88 for ANN model
-- for better test score we re-trained the model with complete train data without spliting it into train,test and validation data and we are able to increase test score by 5 points to 82.
+- We got the best r2 score of 88 for ANN model (from labeled data)
+- for better test score we re-trained the model with complete train data without spliting it into train,test and validation data and we are able to increase test score by 5 points from 78 to 83 for test data.
 
